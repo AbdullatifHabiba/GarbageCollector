@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MarkCompact:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MarkCompact_jar</output-path>
+    <root id="archive" name="MarkCompact.jar">
+      <element id="module-output" name="MarkCompact" />
+    </root>
+  </artifact>
+</component>
